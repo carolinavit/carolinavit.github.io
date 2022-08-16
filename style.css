@@ -1,0 +1,42 @@
+h2, p {
+    font-family: 'Franklin Gothic Medium';
+}
+h2 {
+    text-align: center;
+}
+#minha-foto {
+    float:left;
+    padding:10px;
+    width: 180px;
+    background-color: #E04094;
+}
+
+body {
+    background-color:papayawhip;
+}
+
+#destaque-info {
+    font-style:italic;
+}
+
+h4 {
+    font-size:20px;
+}
+.skill1 {
+    font-size: 18px;
+}
+.skill2 {
+    font-size: 17px;
+}
+.skill3 {
+    font-size: 16px;
+}
+.skill4 {
+    font-size: 15px;
+}
+.divdestaque {
+    height:280px;
+}
+li:nth-child(odd) {
+    color:#E04094;
+}
